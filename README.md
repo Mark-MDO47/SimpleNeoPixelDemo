@@ -1,3 +1,7 @@
+# This is my fork of https://github.com/bigjosh/SimpleNeoPixelDemo
+
+Not sure if I will change anything yet; just want to use it for a second "string" on the RBG project.
+
 # SimpleNeoPixelDemo
 
 A demonstration showing how easy it can be to drive WS2812 NeoPixels.
